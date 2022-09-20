@@ -40,3 +40,8 @@ Mi nombre es *__Sergi__* y estoy en la 301
 ![Foto del Real Madrid](https://github.com/Sergi-Rafael/RepasoGitHub/blob/main/RealMadrid.png "Haciendo clic vas a la foto")
 
 
+| Encabezado1 | Encabezado2 | Encabezado3 |
+| ----------- |:-----------:| -----------: |
+| Item1 | Boligrafos | 20€ |
+| Item2 | Lapizes | 10€ |
+| Item3 | Gomas de borrar | 5€ |

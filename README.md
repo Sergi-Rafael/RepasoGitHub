@@ -37,6 +37,6 @@ Mi nombre es *__Sergi__* y estoy en la 301
 
 [Enlace a Wikipedia](https://es.wikipedia.org "Haciendo clic vas a la pagina de Wikipedia")
 
-![Foto del Real Madrid]([https://github.com/Sergi-Rafael/RepasoGitHub/blob/main/RealMadrid.png "Haciendo clic vas a la foto")
+![Foto del Real Madrid](https://github.com/Sergi-Rafael/RepasoGitHub/blob/main/RealMadrid.png "Haciendo clic vas a la foto")
 
 

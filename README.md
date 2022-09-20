@@ -11,3 +11,26 @@ _Este texto aparece en cursiva_
 __Este texto aparece en negrita__
 
 Mi nombre es *__Sergi__* y estoy en la 301
+
+1. Primer elemento lista ordeneada
+2. Segundo elemento lista ordeanada
+3. Tercer elemento lista ordenada
+
+
+* Primer elemento lista desordenada
+* Segundo elemento lista desordenada
+
+
+- Otra lista desordenada
+- Segundo elemento lista desordenada
+
++ Tercer formato lista desordenada
++ Segundo elemento
+
+
+```html
+<html>
+  <head>
+  </head>
+</html>
+```

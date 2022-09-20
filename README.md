@@ -10,4 +10,4 @@ _Este texto aparece en cursiva_
 **Este texto aparece en negrita**
 __Este texto aparece en negrita__
 
-Mi nombre es *_Sergi_* y estoy en la 301
+Mi nombre es *__Sergi__* y estoy en la 301
